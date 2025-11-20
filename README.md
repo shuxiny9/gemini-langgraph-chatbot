@@ -10,3 +10,7 @@
 nootbook -- need to get API Key(from google AI studio) and value(open access and add into Colab)
 # Attention:
 langchain_chatbot_tutorial.ipynb -- Open it on Colab with NICE, all steps explained.
+
+
+# other tip of hiding API Key:
+* .env to store, put it into a gitignore so it doesn’t push to GitHub. Create a .env.example to provide a template to push to github
